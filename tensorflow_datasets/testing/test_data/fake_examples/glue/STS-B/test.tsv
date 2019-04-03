@@ -1,0 +1,6 @@
+index	genre	filename	year	old_index	source1	source2	sentence1	sentence2
+0	main-captions	MSRvid	2012test	24	none	none	A girl is styling her hair.	A girl is brushing her hair.
+1	main-captions	MSRvid	2012test	33	none	none	A group of men play soccer on the beach.	A group of boys are playing soccer on the beach.
+2	main-captions	MSRvid	2012test	45	none	none	One woman is measuring another woman's ankle.	A woman measures another woman's ankle.
+3	main-captions	MSRvid	2012test	63	none	none	A man is cutting up a cucumber.	A man is slicing a cucumber.
+4	main-captions	MSRvid	2012test	66	none	none	A man is playing a harp.	A man is playing a keyboard.

@@ -1,0 +1,11 @@
+index	sentence1	sentence2	label
+0	The drain is clogged with hair. It has to be cleaned.	The hair has to be cleaned.	0
+1	Jane knocked on Susan's door but she did not answer.	Susan did not answer.	1
+2	Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.	Sally stopped and counted to ten.	0
+3	No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.	That's exactly how Facebook makes us feel.	1
+4	The man couldn't lift his son because he was so heavy.	The son was so heavy.	1
+5	Susan knew that Ann's son had been in a car accident, so she told her about it.	Ann told her about it.	0
+6	When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.	Father gave Timmy a stern look.	1
+7	There is a pillar between me and the stage, and I can't see around it.	I can't see around the pillar.	1
+8	Look! There is a minnow swimming right below that duck! It had better get away to safety fast!	The duck had better get away to safety fast!	0
+9	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	Anyone who knew that he was 19 years old could take his claim away from anyone.	0

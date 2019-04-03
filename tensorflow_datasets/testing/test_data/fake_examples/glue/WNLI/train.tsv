@@ -1,0 +1,16 @@
+index	sentence1	sentence2	label
+0	I stuck a pin through a carrot. When I pulled the pin out, it had a hole.	The carrot had a hole.	1
+1	John couldn't see the stage with Billy in front of him because he is so short.	John is so short.	1
+2	The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.	The police were trying to stop the drug trade in the neighborhood.	1
+3	Steve follows Fred's example in everything. He influences him hugely.	Steve influences him hugely.	0
+4	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.	mother was careful not to disturb her, undressing and climbing back into her berth.	0
+5	George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.	George was particularly eager to see it.	0
+6	John was jogging through the park when he saw a man juggling watermelons. He was very impressive.	John was very impressive.	0
+7	I couldn't put the pot on the shelf because it was too tall.	The pot was too tall.	1
+8	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.	There were simply not enough copies of the newsletter.	1
+9	At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.	The judges were so advanced.	0
+10	I took the water bottle out of the backpack so that it would be lighter.	I took the water bottle out of the backpack so that the backpack would be lighter.	1
+11	The table won't fit through the doorway because it is too narrow.	The table is too narrow.	0
+12	I took the water bottle out of the backpack so that it would be handy.	I took the water bottle out of the backpack so that the backpack would be handy.	0
+13	The firemen arrived after the police because they were coming from so far away.	The police were coming from so far away.	0
+14	Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	Dad could not help him now.	0
